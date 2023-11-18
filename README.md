@@ -1,0 +1,2 @@
+# EmpowerED
+Accessible Classroom Assistant
